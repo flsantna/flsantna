@@ -12,3 +12,6 @@ Predicition and classification using LSTM network.
 Latest project: 
 [Plant Pathology, Kaggle competition](https://github.com/flsantna/plantsPatology)
 Detection of types of pathology in a leaf, was used a multi-label and multi-class model together with EfficientB7 network as backbone.
+
+My social networks. Fell free to get in touch!!
+<p><a href="https://github.com/flsantna" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sousa-flavio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
