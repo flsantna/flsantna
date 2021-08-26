@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there!!
 
-<!--
-**flsantna/flsantna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Flávio Sousa, a Data Scientist in pursuit for knowledge. Be welcome to check more projects.
 
-Here are some ideas to get you started:
+What do i code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=react&logoColor=white"> <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-8DD6F9?style=flat-square&logo=webpack&logoColor=white"> <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-46a2f1?style=flat-square&logo=docker&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-2088FF?style=flat-square&logo=github-actions&logoColor=white">
+
+Currently working on [WoW Token Classifier and Predictor](https://github.com/flsantna/WoW-token)
+Predicition and classification using LSTM network.
+
+Latest project: 
+[Plant Pathology, Kaggle competition](https://github.com/flsantna/plantsPatology)
+Detection of types of pathology in a leaf, was used a multi-label and multi-class model together with EfficientB7 network as backbone.
